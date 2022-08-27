@@ -1,0 +1,189 @@
+{
+    "4b6f25fd6e": {
+        "component://@webruntime/app@es-PA": {
+            "dev": "87b80922db"
+        },
+        "component://localdevserver/preview@es-PA": {
+            "dev": "d8da1a15eb"
+        },
+        "component://c/shippingRatesCmp@es-PA": {
+            "dev": "c097570e9c"
+        }
+    },
+    "b7242f8bd9": {
+        "component://@webruntime/app@es-PA": {
+            "dev": "441b918bea"
+        },
+        "component://localdevserver/preview@es-PA": {
+            "dev": "d8da1a15eb"
+        },
+        "component://c/shippingRatesCmp@es-PA": {
+            "dev": "e16fc436cc"
+        }
+    },
+    "dcb02047cd": {
+        "component://@webruntime/app@es-PA": {
+            "dev": "87b80922db"
+        },
+        "component://localdevserver/preview@es-PA": {
+            "dev": "d8da1a15eb"
+        },
+        "component://c/shippingRatesCmp@es-PA": {
+            "dev": "24c140bbeb"
+        }
+    },
+    "8fcf91a988": {
+        "component://@webruntime/app@es-PA": {
+            "dev": "1c3c9186a7"
+        },
+        "component://localdevserver/preview@es-PA": {
+            "dev": "d8da1a15eb"
+        },
+        "component://c/shippingRatesCmp@es-PA": {
+            "dev": "24c140bbeb"
+        }
+    },
+    "c22409c872": {
+        "component://@webruntime/app@es-PA": {
+            "dev": "87b80922db"
+        },
+        "component://localdevserver/preview@es-PA": {
+            "dev": "d8da1a15eb"
+        },
+        "component://c/shippingRatesCmp@es-PA": {
+            "dev": "64fd695f68"
+        }
+    },
+    "ec3793a71c": {
+        "component://@webruntime/app@es-PA": {
+            "dev": "441b918bea"
+        },
+        "component://localdevserver/preview@es-PA": {
+            "dev": "d8da1a15eb"
+        },
+        "component://c/shippingRatesCmp@es-PA": {
+            "dev": "64fd695f68"
+        }
+    },
+    "749a78321e": {
+        "component://@webruntime/app@es-PA": {
+            "dev": "441b918bea"
+        },
+        "component://localdevserver/preview@es-PA": {
+            "dev": "d8da1a15eb"
+        },
+        "component://c/shippingRatesCmp@es-PA": {
+            "dev": "d43a2a771b"
+        }
+    },
+    "d4e0e79662": {
+        "component://@webruntime/app@es-PA": {
+            "dev": "441b918bea"
+        },
+        "component://localdevserver/preview@es-PA": {
+            "dev": "d8da1a15eb"
+        },
+        "component://c/shippingRatesCmp@es-PA": {
+            "dev": "d43a2a771b"
+        }
+    },
+    "4e7e859bfb": {
+        "component://@webruntime/app@es-PA": {
+            "dev": "87b80922db"
+        },
+        "component://localdevserver/preview@es-PA": {
+            "dev": "d8da1a15eb"
+        },
+        "component://c/shippingRatesCmp@es-PA": {
+            "dev": "2945de2e00"
+        }
+    },
+    "2c8abd961a": {
+        "component://@webruntime/app@es-PA": {
+            "dev": "87b80922db"
+        },
+        "component://localdevserver/preview@es-PA": {
+            "dev": "d8da1a15eb"
+        },
+        "component://c/shippingRatesCmp@es-PA": {
+            "dev": "2945de2e00"
+        }
+    },
+    "a61771bffb": {
+        "component://@webruntime/app@es-PA": {
+            "dev": "441b918bea"
+        },
+        "component://localdevserver/preview@es-PA": {
+            "dev": "d8da1a15eb"
+        },
+        "component://c/shippingRatesCmp@es-PA": {
+            "dev": "4aa11e43db"
+        }
+    },
+    "7e9c2a26af": {
+        "component://@webruntime/app@es-PA": {
+            "dev": "87b80922db"
+        },
+        "component://localdevserver/preview@es-PA": {
+            "dev": "d8da1a15eb"
+        },
+        "component://c/shippingRatesCmp@es-PA": {
+            "dev": "5b923d7dcf"
+        }
+    },
+    "7e6e452760": {
+        "component://@webruntime/app@es-PA": {
+            "dev": "87b80922db"
+        },
+        "component://localdevserver/preview@es-PA": {
+            "dev": "d8da1a15eb"
+        },
+        "component://c/shippingRatesCmp@es-PA": {
+            "dev": "5b923d7dcf"
+        }
+    },
+    "f85e501a02": {
+        "component://@webruntime/app@es-PA": {
+            "dev": "441b918bea"
+        },
+        "component://localdevserver/preview@es-PA": {
+            "dev": "d8da1a15eb"
+        },
+        "component://c/shippingRatesCmp@es-PA": {
+            "dev": "5b923d7dcf"
+        }
+    },
+    "9e220695bd": {
+        "component://@webruntime/app@es-PA": {
+            "dev": "441b918bea"
+        },
+        "component://localdevserver/preview@es-PA": {
+            "dev": "d8da1a15eb"
+        },
+        "component://c/shippingRatesCmp@es-PA": {
+            "dev": "5b923d7dcf"
+        }
+    },
+    "d739bc3e79": {
+        "component://@webruntime/app@es-PA": {
+            "dev": "1c3c9186a7"
+        },
+        "component://localdevserver/preview@es-PA": {
+            "dev": "d8da1a15eb"
+        },
+        "component://c/shippingRatesCmp@es-PA": {
+            "dev": ""
+        }
+    },
+    "9fef2d3683": {
+        "component://@webruntime/app@es-PA": {
+            "dev": "441b918bea"
+        },
+        "component://localdevserver/preview@es-PA": {
+            "dev": "d8da1a15eb"
+        },
+        "component://c/shippingRatesCmp@es-PA": {
+            "dev": "0c2aff1575"
+        }
+    }
+}
