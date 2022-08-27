@@ -1,1 +1,1 @@
-# ShippinRates
+# ShippingRates

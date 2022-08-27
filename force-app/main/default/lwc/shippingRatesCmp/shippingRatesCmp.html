@@ -1,0 +1,64 @@
+<template>
+    <lightning-layout vertical-align="center" horizontal-align="spread" multiple-rows="true">
+        
+        <lightning-layout-item class="slds-p-around_xx-small" size="12" small-device-size="12" medium-device-size="6">
+            <lightning-card  style="width: 100%" class="slds-p-around_medium">
+
+                <lightning-input-address
+                    class="slds-p-around_medium"
+                    address-label="Origin Address"
+                    street-label="Street"
+                    city-label="City"
+                    country-label="Country"
+                    province-label="Province"
+                    postal-code-label="PostalCode"
+                    street="Some street"
+                    city="Kissimmee"
+                    country="US"
+                    province="FL"
+                    postal-code="34747"
+                    required
+                    field-level-help="All the fields are required"
+                    onchange={handleOriginChange} >
+                </lightning-input-address>
+
+            </lightning-card>
+        </lightning-layout-item>
+
+        <lightning-layout-item class="slds-p-around_xx-small"  size="12" small-device-size="12" medium-device-size="6">
+            <lightning-card  style="width: 100%" class="slds-p-around_medium">
+                
+                <lightning-input-address
+                    class="slds-p-around_medium"
+                    address-label="Destination Address"
+                    street-label="Street"
+                    city-label="City"
+                    country-label="Country"
+                    province-label="Province"
+                    postal-code-label="PostalCode"
+                    street="Main Street"
+                    city="Panama"
+                    country="PA"
+                    province="Panama"
+                    postal-code="00000"
+                    required
+                    field-level-help="Destination Address" 
+                    onchange={handleDestinationChange}>
+                </lightning-input-address>
+ 
+            </lightning-card>                    
+        </lightning-layout-item>
+
+    </lightning-layout>
+
+    <lightning-layout>
+        <lightning-layout-item>
+            <lightning-button variant="brand-outline" label="Get Quote" title="Get Quote" onclick={handleGetQoute} class="slds-m-left_x-small"></lightning-button>
+        </lightning-layout-item>
+    </lightning-layout>
+
+    <template if:true={showResults}>
+        <c-shipping-rates-results shipping-rates-results={resultJson}></c-shipping-rates-results>
+    </template>
+    
+</template>
