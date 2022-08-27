@@ -20,7 +20,7 @@ private class shippingRates_Test {
             System.debug('* * *  test_GetFedexToken_ok - resutl -> ' +  result);
             Map<String, Object> m = (Map<String, Object>) JSON.deserializeUntyped(result);
             System.debug('* * *  test_GetFedexToken_ok - token_type -> ' +  m.get('token_type') );
-            System.assertEquals('bearer', m.get('token_type'));
+            System.assertEquals('bearer', m.get('token_type')); 
             
         Test.stopTest();
 

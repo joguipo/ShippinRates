@@ -17,7 +17,7 @@ export default class ShippingRatesResults extends LightningElement {
 
     connectedCallback() {
         this.formatQuotes();
-    }
+    } 
 
     formatQuotes(){
         let data = JSON.parse(JSON.stringify(this.shippingRatesResults.output.rateReplyDetails));

@@ -23,6 +23,7 @@ export default class ShippingRatesCmp extends LightningElement {
     .catch(error => {
         console.log(error)
     })
+    
   }
 
 

@@ -27,7 +27,7 @@ public with sharing class shippingRates {
         req.setTimeout(30000);
         HTTPResponse response = http.send(req);
 
-        return response.getBody();
+        return response.getBody(); 
         
     }
 
